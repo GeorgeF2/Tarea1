@@ -7,4 +7,11 @@
         <item>Maestria</item>
         <item>Doctorado</item>
     </string-array>
+    <string-array name="libros">
+        <item>Fahrenheit 451</item>
+        <item>Holes</item>
+        <item>Inferno</item>
+        <item>Angels and Demons</item>
+        <item>The Kite Runner</item>
+    </string-array>
 </resources>
