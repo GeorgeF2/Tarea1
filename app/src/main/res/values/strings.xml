@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Tarea1</string>
+    <string-array name="escolaridad">
+        <item>Bachillerato</item>
+        <item>Tecnico</item>
+        <item>Licenciatura</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string-array name="libros">
+        <item>Fahrenheit 451</item>
+        <item>Holes</item>
+        <item>Inferno</item>
+        <item>Angels and Demons</item>
+        <item>The Kite Runner</item>
+    </string-array>
 </resources>
